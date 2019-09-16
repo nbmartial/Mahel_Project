@@ -502,6 +502,17 @@ img {
   margin-bottom: 5px;
 }
 
+.separator-line { 
+   width: 80%;
+   height: 5px;
+   border: 0 none;
+   margin-right: auto;
+   margin-left: auto;
+   margin-top: 80px;
+   margin-bottom:90px;
+   background-color:#555;
+}
+
 
 /*==================
  COUNTER SECTION
