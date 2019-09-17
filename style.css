@@ -513,6 +513,117 @@ img {
    background-color:#555;
 }
 
+/*==================
+	FH SECTION
+====================*/
+#mu-FH {
+  display: inline;
+  float: left;
+  width: 100%;
+  padding: 100px 0;
+}
+
+.mu-FH-area {
+  display: inline;
+  float: left;
+  width: 100%;
+}
+.image_FH_left {
+   width: 300px;
+   height: 500px;
+   border: 3px black;
+   border-style: solid;
+   float: right;   
+}
+
+.image_FH_right {
+   width: 300px;
+   height: 500px;
+   border: 3px black;
+   border-style: solid;
+   float: left;   
+}
+
+/*==================
+	GH SECTION
+====================*/
+#mu-GH {
+  display: inline;
+  float: left;
+  width: 100%;
+  padding: 100px 0;
+}
+
+.mu-GH-area {
+  display: inline;
+  float: left;
+  width: 100%;
+}
+
+/*==================
+	LH SECTION
+====================*/
+#mu-LH {
+  display: inline;
+  float: left;
+  width: 100%;
+  padding: 100px 0;
+}
+
+.mu-LH-area {
+  display: inline;
+  float: left;
+  width: 100%;
+}
+
+/*==================
+	BM SECTION
+====================*/
+#mu-BM {
+  display: inline;
+  float: left;
+  width: 100%;
+  padding: 100px 0;
+}
+
+.mu-BM-area {
+  display: inline;
+  float: left;
+  width: 100%;
+}
+
+/*==================
+	Autres SECTION
+====================*/
+#mu-Autres {
+  display: inline;
+  float: left;
+  width: 100%;
+  padding: 100px 0;
+}
+
+.mu-Autres-area {
+  display: inline;
+  float: left;
+  width: 100%;
+}
+
+/*============================
+	Telechargement SECTION
+==============================*/
+#mu-Telechargement {
+  display: inline;
+  float: left;
+  width: 100%;
+  padding: 100px 0;
+}
+
+.mu-Telechargement-area {
+  display: inline;
+  float: left;
+  width: 100%;
+}
+
 
 /*==================
  COUNTER SECTION
@@ -1763,6 +1874,30 @@ RESERVATION SECTION
     padding: 100px 0 50px;
   }
 
+  #mu-FH {
+    padding: 100px 0 50px;
+  }
+  
+  #mu-GH {
+    padding: 100px 0 50px;
+  }
+  
+   #mu-LH {
+    padding: 100px 0 50px;
+  }
+  
+  #mu-BM {
+    padding: 100px 0 50px;
+  }
+  
+  #mu-Autres{
+    padding: 100px 0 50px;
+  }
+  
+  #mu-Telechargement {
+    padding: 100px 0 50px;
+  }
+  
   #mu-restaurant-menu {
     padding-bottom: 0px;
   }
